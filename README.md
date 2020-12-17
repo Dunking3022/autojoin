@@ -13,4 +13,4 @@ a previously specified dictionary to join voice channel of the class based on wh
  
 Pretty simple script. Decided to make it because I'm usually late to my online classes.
 
---My first github project :D
+--My first github project
