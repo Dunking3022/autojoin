@@ -1,4 +1,4 @@
-# AutoJoin - Join Discord Channels Automatically at a specif time
+# AutoJoin - Join Discord Channels Automatically at a specific time
 Automate joining a discord channel using PyAutoGUI library with different features
 
 A script to join a discord channel at a specific time automatically using PyAutoGUI library for Python 3.
